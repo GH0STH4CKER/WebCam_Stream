@@ -20,7 +20,7 @@
 
 ### Windows EXE
 
-- Download the latest release: `[LaptopCam_Streamer.exe](link-to-release)`  
+- Download the latest release: `[WebCam_Streamer.exe]([link-to-release](https://github.com/GH0STH4CKER/WebCam_Streamer/releases/download/v1/WebCamCastPro.exe))`  
 - Double-click to run — no Python installation required.  
 
 ### Python Version
